@@ -9,3 +9,8 @@ Implementation of `hsi2rgb` and `rgb2hsi`. Additional function to validate the c
 
 ## Triangular and circular HSI cross-sections
 Plot circular and triangular cross-sections for a given list of intensity (I) values. 
+
+
+## Remark
+
+Not optimized for performance.
