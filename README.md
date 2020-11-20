@@ -2,7 +2,7 @@
 
 ## Safe RGB colors
 
-Plot the sections of the RGB cube space containing the safe colors.
+Plot cross-sections of the RGB cube space containing the safe colors.
 
 ## HSI <-> RGB
 Implementation of `hsi2rgb` and `rgb2hsi`. Additional function to validate the conversion (`validate_conversion`).
